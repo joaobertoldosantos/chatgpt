@@ -12,3 +12,8 @@ main {
     align-items: center;
     margin-top: 50%;
 } 
+
+section {
+    border-radius: 20px;
+    border-width: 10px;
+}
