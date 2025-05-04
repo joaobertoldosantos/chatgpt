@@ -8,4 +8,7 @@ footer {
     align-items: center;
 }
 
-header 
+main {
+    align-items: center;
+    margin-top: 50%;
+} 
